@@ -23,7 +23,7 @@
 <div id="Content" class="wrapper">
 	<div class="countdown styled"></div>
 	<div style="text-align:center;">
-		<img src="/img/mainfooter.png" id="footer"/>sss
+		<img src="/img/mainfooter.png" id="footer"/>ssseee
 	</div>
 </div>
 	
